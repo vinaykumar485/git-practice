@@ -40,3 +40,13 @@ suppose you are working in Feature branch and there are some commit s done in ma
 
 you can see that your latest commit in feature branch is at the top of the commit in the main branch 
 
+
+
+
+# git revert
+
+this is to bring back the chnages done with new commit id , example you have deleted the file in the previous commit and pushed to centrl repo and now you want to bring bakc that file , then we use git revert 
+
+        command : git revert <previuos commit id which commit you want to revert>
+
+
