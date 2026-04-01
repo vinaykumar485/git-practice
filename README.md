@@ -49,4 +49,4 @@ this is to bring back the chnages done with new commit id , example you have del
 
         command : git revert <previuos commit id which commit you want to revert>
 
-
+  "it will creat the new commit id and it wont rewrite any old commit "
